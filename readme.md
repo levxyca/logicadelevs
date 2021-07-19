@@ -1,35 +1,15 @@
-# Como resolver os problemas do URI com Javascript?
+# URI
 
-## Cabeçalho para rodar o Javascript como o URI pede
+## Resolvendo problemas do URI com Javascript
 
-- Fazendo requisição do modulo fs(para ler o conteúdo do arquivo)
-- readFileSync é um método síncrono
-- Passamos dois parâmetros, o primeiro é o nome do arquivo e o segundo é o tipo de encoding
+O URI Online Judge é um repositório de problemas de programação. Os problemas são separados por tópicos (iniciante, ad-hoc, strings, etc) e por dificuldade, variando de 1 a 10. [Meu perfil no uri 🔗](https://www.urionlinejudge.com.br/judge/pt/profile/565766)
 
-```
-const input = require("fs").readFileSync("stdin", "utf8");
-```
+O logicadelevs 🤔 é um quadro do [meu canal na twitch](https://www.twitch.tv/levxyca) onde resolvemos exercícios de lógica do URI com Javascript. Aqui você encontra todas as minhas resoluções.
 
-## Para quebrar a string a partir de um separador
+### Iniciante
 
-```
-const linhas = input.split(" ");
-```
-
-## Desestruturando o vetor
-
-```
-const [x, y] = input.split(" ");
-```
-
-## Utilizando o map para mapear o item e fazer com que ele retorne o valor inteiro desse item
-
-```
-const [x, y] = input.split(" ").map(item => parseInt(item));
-```
-
-## Para rodar o arquivo.
-
-```
-node .\script.js
-```
+| Problema   |      Solução      |
+|----------|:-------------:|
+| 1000 | [Link](iniciante/1000.js) |
+| 1001 | [Link](iniciante/1001.js) |
+| 1002 | [Link](iniciante/1002.js) |
