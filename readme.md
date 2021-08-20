@@ -15,3 +15,5 @@ O logicadelevs 🤔 é um quadro do [meu canal na twitch](https://www.twitch.tv/
 | 1002 | [Link](iniciante/1002.js) |
 | 1003 | [Link](iniciante/1003.js) |
 | 1004 | [Link](iniciante/1004.js) |
+| 1005 | [Link](iniciante/1005.js) |
+| 1006 | [Link](iniciante/1006.js) |
