@@ -10,13 +10,15 @@ O logicadelevs 🤔 é um quadro do [meu canal na twitch](https://www.twitch.tv/
 
 | Problema   |      Solução      |
 |----------|:-------------:|
-| 1000 | [Link](iniciante/1000.js) |
-| 1001 | [Link](iniciante/1001.js) |
-| 1002 | [Link](iniciante/1002.js) |
-| 1003 | [Link](iniciante/1003.js) |
-| 1004 | [Link](iniciante/1004.js) |
-| 1005 | [Link](iniciante/1005.js) |
-| 1006 | [Link](iniciante/1006.js) |
-| 1007 | [Link](iniciante/1007.js) |
-| 1008 | [Link](iniciante/1008.js) |
-| 1009 | [Link](iniciante/1009.js) |
+| 1000 | [Link](iniciante/logic/solutions/1000.md) |
+| 1001 | [Link](iniciante/logic/solutions/1001.md) |
+| 1002 | [Link](iniciante/logic/solutions/1002.md) |
+| 1003 | [Link](iniciante/logic/solutions/1003.md) |
+| 1004 | [Link](iniciante/logic/solutions/1004.md) |
+| 1005 | [Link](iniciante/logic/solutions/1005.md) |
+| 1006 | [Link](iniciante/logic/solutions/1006.md) |
+| 1007 | [Link](iniciante/logic/solutions/1007.md) |
+| 1008 | [Link](iniciante/logic/solutions/1008.md) |
+| 1009 | [Link](iniciante/logic/solutions/1009.md) |
+| 1010 | [Link](iniciante/logic/solutions/1010.md) |
+| 1011 | [Link](iniciante/logic/solutions/1011.md) |
