@@ -23,3 +23,5 @@ O logicadelevs 🤔 é um quadro do [meu canal na twitch](https://www.twitch.tv/
 | 1010 | [Link](iniciante/logic/solutions/1010.md) |
 | 1011 | [Link](iniciante/logic/solutions/1011.md) |
 | 1012 | [Link](iniciante/logic/solutions/1012.md) |
+| 1013 | [Link](iniciante/logic/solutions/1013.md) |
+| 1014 | [Link](iniciante/logic/solutions/1014.md) |
