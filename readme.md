@@ -16,6 +16,7 @@ O Beecrowd é um repositório de problemas de programação. Os problemas são s
 
 | Problema |       Lógica      |         Código          | 💻 | 💻 |
 | -------- | :---------------------------------------: | :---------------------: | :---------------------: | :---------------------: |
-| 1000     | [Link](logica/iniciante/1000.md) | [JavaScript](iniciante/js/1000.js) | [C](iniciante/c/1000.c) | [Em breve](iniciante/java/1000.java)
+| 1000     | [Link](logica/iniciante/1000.md) | [JavaScript](iniciante/js/1000.js) | [C](iniciante/c/1000.c) | [Java](iniciante/java/1000.java)
+| 1001     | [Link](logica/iniciante/1001.md) | [JavaScript](iniciante/js/1001.js) | [C](iniciante/c/1001.c) | [Java](iniciante/java/1001.java)
 
 Feito com 💙 por [levxyca](https://levxyca.com/).
