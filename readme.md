@@ -18,5 +18,29 @@ O Beecrowd é um repositório de problemas de programação. Os problemas são s
 | -------- | :---------------------------------------: | :---------------------: | :---------------------: | :---------------------: |
 | 1000     | [Link](logica/iniciante/1000.md) | [JavaScript](iniciante/js/1000.js) | [C](iniciante/c/1000.c) | [Java](iniciante/java/1000.java)
 | 1001     | [Link](logica/iniciante/1001.md) | [JavaScript](iniciante/js/1001.js) | [C](iniciante/c/1001.c) | [Java](iniciante/java/1001.java)
+| 1002     | [Link](logica/iniciante/1002.md) | [JavaScript](iniciante/js/1002.js) | [C](iniciante/c/1002.c) |
+| 1003     | [Link](logica/iniciante/1003.md) | [JavaScript](iniciante/js/1002.js) | [C](iniciante/c/1002.c) |
+| 1004     | [Link](logica/iniciante/1002.md) | [JavaScript](iniciante/js/1002.js) | [C](iniciante/c/1002.c) |
+| 1005     | [Link](logica/iniciante/1002.md) | [JavaScript](iniciante/js/1002.js) | [C](iniciante/c/1002.c) |
+| 1006     | [Link](logica/iniciante/1002.md) | [JavaScript](iniciante/js/1002.js) | [C](iniciante/c/1002.c) |
+| 1007     | [Link](logica/iniciante/1002.md) | [JavaScript](iniciante/js/1002.js) | [C](iniciante/c/1002.c) |
+| 1008     | [Link](logica/iniciante/1002.md) | [JavaScript](iniciante/js/1002.js) | [C](iniciante/c/1002.c) |
+| 1009     | [Link](logica/iniciante/1002.md) | [JavaScript](iniciante/js/1002.js) | [C](iniciante/c/1002.c) |
+| 1010     | [Link](logica/iniciante/1002.md) | [JavaScript](iniciante/js/1002.js)
+| 1011     | [Link](logica/iniciante/1002.md) | [JavaScript](iniciante/js/1002.js)
+| 1012     | [Link](logica/iniciante/1002.md) | [JavaScript](iniciante/js/1002.js)
+| 1013     | [Link](logica/iniciante/1002.md) | [JavaScript](iniciante/js/1002.js)
+| 1014     | [Link](logica/iniciante/1002.md) | [JavaScript](iniciante/js/1002.js)
+| 1015     | [Link](logica/iniciante/1002.md) | [JavaScript](iniciante/js/1002.js)
+| 1016     | [Link](logica/iniciante/1002.md) | [JavaScript](iniciante/js/1002.js)
+| 1017     | [Link](logica/iniciante/1002.md) | [JavaScript](iniciante/js/1002.js)
+| 1018     | [Link](logica/iniciante/1002.md) | [JavaScript](iniciante/js/1002.js)
+| 1019     | [Link](logica/iniciante/1002.md) | [JavaScript](iniciante/js/1002.js)
+| 1020     | [Link](logica/iniciante/1002.md) | [JavaScript](iniciante/js/1002.js)
+| 1021     | [Link](logica/iniciante/1002.md) | [JavaScript](iniciante/js/1002.js)
+| 1035     | [Link](logica/iniciante/1002.md) | [JavaScript](iniciante/js/1002.js)
+| 1036     | [Link](logica/iniciante/1002.md) | [JavaScript](iniciante/js/1002.js)
+| 1037     | [Link](logica/iniciante/1037.md) | [JavaScript](iniciante/js/1037.js)
+| 1038     | [Link](logica/iniciante/1038.md) | [JavaScript](iniciante/js/1038.js)
 
 Feito com 💙 por [levxyca](https://levxyca.com/).
