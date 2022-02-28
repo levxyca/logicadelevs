@@ -42,6 +42,7 @@ O Beecrowd é um repositório de problemas de programação. Os problemas são s
 | 1036     | [Link](logica/iniciante/1036.md) | [JavaScript](iniciante/js/1036.js)
 | 1037     | [Link](logica/iniciante/1037.md) | [JavaScript](iniciante/js/1037.js)
 | 1038     | [Link](logica/iniciante/1038.md) | [JavaScript](iniciante/js/1038.js)
-| 1038     | [Link](logica/iniciante/1040.md) | [JavaScript](iniciante/js/1040.js)
+| 1040     | [Link](logica/iniciante/1040.md) | [JavaScript](iniciante/js/1040.js)
+| 1041     | [Link](logica/iniciante/1041.md) | [JavaScript](iniciante/js/1041.js)
 
 Feito com 💙 por [levxyca](https://levxyca.com/).
