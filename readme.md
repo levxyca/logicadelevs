@@ -86,6 +86,7 @@ O Beecrowd é um repositório de problemas de programação. Os problemas são s
 | Hello World | [Link](exercism/logic/hello-world.md) | [JavaScript](exercism/problems/hello-world.js) |
 | Lucian's Luscious Lasagna | [Link](exercism/logic/lucians-lucious-lasagna.md) | [JavaScript](exercism/problems/lucians-lucious-lasagna.js) |
 | Annalyn's Infiltration | [Link](exercism/logic/annalyns-infiltration.md) | [JavaScript](exercism/problems/annalyns-infiltration.js) |
+| Freelancer Rates | [Link](exercism/logic/freelancer-rates.md) | [JavaScript](exercism/problems/freelancer-rates.js) |
 
 ---
 Feito com 💙 por [levxyca](https://levxyca.com/).
